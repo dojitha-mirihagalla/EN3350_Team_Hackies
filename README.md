@@ -1,4 +1,4 @@
-# EN3350_Team_Hackies - ECOQuest
+# EN3350_Team_Hackies - ECO Quest
 This repo is for EN3350 Software Design Competition.
 
 Please find the project files in the Google Drive folder
