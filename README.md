@@ -1,2 +1,1 @@
-# EN3350_Team_Hackies - Main Branch
-This repo is for EN3350 Software Design Competition.
+# Eco-Quest: A unity-based 2D game that educates users on energy conservation through interactive gameplay, highlighting the impact of decisions on energy consumption.
